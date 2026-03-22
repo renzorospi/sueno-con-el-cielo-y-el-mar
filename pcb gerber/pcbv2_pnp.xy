@@ -1,0 +1,14 @@
+# Pick And Place List
+# eMail=
+#
+# Project=pcbv2
+# Date=06:27:05
+# CreatedBy=Fritzing 1.0.6.2025-10-07.CD-2239-0-04e5bb02
+#
+# Coordinates in mils, always center of component
+# Origin 0/0=Lower left corner of PCB. Rotation in degree (0-360, math. pos.)
+RefDes,Description,Package,X,Y,Rotation,Side,Mount
+Description: resistance;capacitance;inductance;voltage;current;power;mpn;mn;
+J1,";;;;;;;;","THT",542.056,2381.96,-90,Bottom,THT
+OLED1,";;;;;;;;","",565.4,549.032,0,Top,MANUAL
+A1,";;;;;;;;","",616.545,1726.48,0,Top,MANUAL
