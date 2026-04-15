@@ -11,9 +11,6 @@
 
 Cada módulo reproduce de forma autónoma uno de cinco bucles de animación compuestos por 900 mapas de bits, generando una polifonía visual en la que cada pantalla pulsa a su propio ritmo dentro de un sistema compartido.
 
-IMG_0020.jpeg
-IMG_0025.jpeg
-
 <p align="center">
   <img src="IMG_0020.jpeg" alt="foto 1" width="300">
   <img src="IMG_0025.jpeg" alt="foto 2" width="300">
