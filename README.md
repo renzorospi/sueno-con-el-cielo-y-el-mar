@@ -9,7 +9,7 @@
 
 *Sueño con el cielo y el mar* es una instalación electrónica que explora los afectos digitales y el contacto físico mediado por las pantallas. A través de 15 módulos de video monocromático montados dentro de un jardín, la pieza propone una reflexión sobre cómo las superficies luminosas se han convertido en el principal medio de contacto humano contemporáneo: objetos que tocamos, que nos miran, que sostienen presencias.
 
-Cada módulo reproduce de forma autónoma uno de cinco bucles de animación compuestos por 900 mapas de bits, generando una polifonía visual en la que cada pantalla pulsa a su propio ritmo dentro de un sistema compartido.
+Cada módulo reproduce de forma autónoma uno de cinco bucles de animación compuestos por 900 mapas de bits dentro de un sistema compartido.
 
 <p align="center">
   <img src="IMG_0020.jpeg" alt="foto 1" width="300">
