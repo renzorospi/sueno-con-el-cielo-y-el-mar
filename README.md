@@ -1,7 +1,7 @@
 # Sueño con el cielo y el mar
 
 **Renzo Rospigliosi** — Proyecto de grado, Maestría en Artes Plásticas, Electrónicas y del Tiempo, Universidad de los Andes (2022)
-<br> Expuesto en Voltaje - Salón de Arte Ciencia y Tecnología (2022) en el Planetario de Bogotá y en Contacto Sintético: Un diálogo entre Lina González y Renzo Rospigliosi (2026) en el Espacio Común de la FaCrea, como parte del circuito de ArtBo Fin de Semana. 
+<br> Expuesto en Voltaje - Salón de Arte, Ciencia y Tecnología (2022) en el Planetario de Bogotá y en Contacto Sintético: Un diálogo entre Lina González y Renzo Rospigliosi (2026) en el Espacio Común de la FaCrea, como parte del circuito de ArtBo Fin de Semana. 
 
 ---
 
