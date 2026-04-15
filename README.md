@@ -1,6 +1,7 @@
 # Sueño con el cielo y el mar
 
 **Renzo Rospigliosi** — Proyecto de grado, Maestría en Artes Plásticas, Electrónicas y del Tiempo, Universidad de los Andes (2022)
+<br> Expuesto en Voltaje - Salón de Arte Ciencia y Tecnología (2022) en el Planetario de Bogotá y en Contacto Sintético: Un diálogo entre Lina González y Renzo Rospigliosi (2026) en el Espacio Común de la FaCrea, como parte del circuito de ArtBo Fin de Semana. 
 
 ---
 
@@ -9,6 +10,16 @@
 *Sueño con el cielo y el mar* es una instalación electrónica que explora los afectos digitales y el contacto físico mediado por las pantallas. A través de 15 módulos de video monocromático montados dentro de un jardín, la pieza propone una reflexión sobre cómo las superficies luminosas se han convertido en el principal medio de contacto humano contemporáneo: objetos que tocamos, que nos miran, que sostienen presencias.
 
 Cada módulo reproduce de forma autónoma uno de cinco bucles de animación compuestos por 900 mapas de bits, generando una polifonía visual en la que cada pantalla pulsa a su propio ritmo dentro de un sistema compartido.
+
+IMG_0020.jpeg
+IMG_0025.jpeg
+
+<p align="center">
+  <img src="IMG_0020.jpeg" alt="foto 1" width="300">
+  <img src="IMG_0025.jpeg" alt="foto 2" width="300">
+
+</p>
+
 
 ---
 
@@ -172,6 +183,15 @@ Mil gracias a David Peña por todo el apoyo y las enseñanzas para que este proy
 
 ---
 
+## Contacto
+
+**Renzo Rospigliosi**  
+[renzorospigliosi.com](https://renzorospigliosi.com)  
+renzorospiglioisb@gmail.com  
+Bogotá, Colombia
+
+---
+
 ## Licencia
 
 MIT License — puedes usar, modificar y distribuir libremente este trabajo, incluyendo para proyectos propios. Solo pedimos que mantengas la atribución original.
@@ -183,11 +203,3 @@ IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
 FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT.
 ```
 
----
-
-## Contacto
-
-**Renzo Rospigliosi**  
-[renzorospigliosi.com](https://renzorospigliosi.com)  
-renzorospiglioisb@gmail.com  
-Bogotá, Colombia
